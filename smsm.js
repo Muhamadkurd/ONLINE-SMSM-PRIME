@@ -2938,7 +2938,8 @@ smsm120.on("ready", () => {
 smsm.login("");
 smsm2.login("");
 smsm3.login("");
-smsm4.login("");
+smsm4.login("
+            ");
 smsm5.login("");
 smsm6.login("");
 smsm7.login("");
@@ -2946,6 +2947,7 @@ smsm8.login("");
 smsm9.login("");
 smsm10.login("");
 smsm11.login("");
+smsm12.login("ODk1MjIwNTY1ODczNDA1OTcy.YV1Z-Q.jSUIIaZpwZ0nZjmT3_fW5Kq4Dfc");
 smsm12.login("");
 smsm13.login("");
 smsm14.login("");
